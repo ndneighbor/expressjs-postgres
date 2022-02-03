@@ -7,7 +7,7 @@ tags:
   - typescript
 ---
 
-# ExpressJS Postgres Example
+# ExpressJS Postgres Examplee
 
 This example starts an [ExpressJS](https://expressjs.com/) server that connects
 to a Railway PostgreSQL database.
